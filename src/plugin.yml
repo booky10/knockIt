@@ -1,0 +1,13 @@
+---
+name: knockIt
+main: tk.t11e.knockit.main.Main
+version: '1.0'
+description: KnockIt plugin
+api-version: '1.15'
+author: booky10
+prefix: KnockIt
+commands:
+  knockIt:
+    usage: 'Usage: /knockIt <setSpawn|setDeathHeight|setLoc1|setLoc2>'
+    description: Command for knockIt
+    permission: knockIt
